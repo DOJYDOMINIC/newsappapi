@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:newsappapi/views/homepage.dart';
 
-import 'homepage.dart';
 
 void main (){
   runApp(MyApp());
